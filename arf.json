@@ -21,7 +21,7 @@
           ]
         },
         {
-          "name": "Pre-market day",
+          "name": "Before Market Day",
           "type": "stage",
           "children": [
             {
